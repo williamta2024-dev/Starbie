@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 15h | 6 |
+| Week 1 | Tier 1 | 15.5h | 6 |
 
 ## Contents
 
@@ -43,7 +43,7 @@ Day 2: I don't know what kept going with my symbols. It keeps giving me a error 
 
 ### 2026-10-08 – Day 3:
 
-**1.5h**
+**2h**
 
 Day 3:
 I didn't do much today since I had school work and it was due at 11:59 pm today. All I did on Starbie was try to fix my error but nothing seemed to work and I will lock in tomorrow to try to find the solution. I also found this very useful video that I will continue watching tomorrow.
