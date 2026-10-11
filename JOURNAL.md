@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 14.5h | 6 |
+| Week 1 | Tier 1 | 15h | 6 |
 
 ## Contents
 
@@ -66,7 +66,7 @@ Today I got a lot of work done and watched a lot of YouTube  videos for info. Th
 
 ### 2026-10-11 – ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QqRpLfUPGbk7i2obc8qViv14LwrJ8Zqh/d81d8154632201eeff807c114ccc2d32d437579657b3192cc8d877ec4fc40986.png)
 
-**1.5h**
+**2h**
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QqRpLfUPGbk7i2obc8qViv14LwrJ8Zqh/d81d8154632201eeff807c114ccc2d32d437579657b3192cc8d877ec4fc40986.png)
 
