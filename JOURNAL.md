@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 7.3h | 5 |
+| Week 1 | Tier 1 | 7.65h | 5 |
 
 ## Contents
 
@@ -65,10 +65,10 @@ Today I got a lot of work done and watched a lot of YouTube  videos for info. Th
 
 ### 2026-10-11 – ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QqRpLfUPGbk7i2obc8qViv14LwrJ8Zqh/d81d8154632201eeff807c114ccc2d32d437579657b3192cc8d877ec4fc40986.png)
 
-**0.65h**
+**1h**
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QqRpLfUPGbk7i2obc8qViv14LwrJ8Zqh/d81d8154632201eeff807c114ccc2d32d437579657b3192cc8d877ec4fc40986.png)
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QqRpLfUPGbk7i2obc8qViv14LwrJ8Zqh/bfe5fb58863ff06232d22687aa210f798a1e684d23c20683bccd9ea96c34ad01.png)
+![Screenshot 2026-10-10 231758](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QqRpLfUPGbk7i2obc8qViv14LwrJ8Zqh/4cc9e862ba8ee6ebfa77b4117c41a6dba0f01701ec44213f019ce27e211d36f7.png)
 Day 5:
 Today I did some stuff on the repo with adding the kicad file to it and I also did some of the firmware aspects with downloading the arduino ide. I downloaded all the libraries needed for arduino, but I was tripping or something because I couldn't open a file, which in the end I figured it out.
