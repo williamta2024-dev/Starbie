@@ -14,4 +14,4 @@
 | 10 kΩ Resistors | Pull the DHT11 data signal HIGH when idle | 1 pack | $2.03 | $2.03 | [AliExpress](https://www.aliexpress.us/item/2251832723050077.html) |
 | Custom Two-Layer PCB | Holds and connects the components | 1 order | $10.00 | $10.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Total Purchase Cost** | | | | **$26.77** | |
-| **Total including tax** | **$28.98** |
+| **Total including tax** | | | |**$28.98** | |
