@@ -1,6 +1,3 @@
-# Starbie Bill of Materials
-
-
 # Bill of Materials
 
 | Part | Purpose | Qty | Unit Price | Total | Vendor |
