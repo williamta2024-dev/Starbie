@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 17h | 6 |
+| Week 1 | Tier 1 | 18.5h | 6 |
 
 ## Contents
 
@@ -54,15 +54,19 @@ I didn't do much today since I had school work and it was due at 11:59 pm today.
 
 ### 2026-10-09 – ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QqRpLfUPGbk7i2obc8qViv14LwrJ8Zqh/4882f8334bec21c1d961798135eb0792be077514e2fe76ffb5da00d71f8bc96a.png)
 
-**3h**
+**4.5h**
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QqRpLfUPGbk7i2obc8qViv14LwrJ8Zqh/4882f8334bec21c1d961798135eb0792be077514e2fe76ffb5da00d71f8bc96a.png)
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QqRpLfUPGbk7i2obc8qViv14LwrJ8Zqh/357ed0d381111aab17f3e0a0747ff095ffafb284827104d3b9f136e7e73d61d2.png)
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QqRpLfUPGbk7i2obc8qViv14LwrJ8Zqh/174576890616f1295ebee523ace99ff86684b0c15976beab14aaf2d772dab32e.png)
+
+![download 1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QqRpLfUPGbk7i2obc8qViv14LwrJ8Zqh/1d6d60c211f1cdbf23dc08877f0c74db64afcb61b1679626acb8ffa381ba180b.jpg)
+
+![Screenshot 2026-10-09 150026](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QqRpLfUPGbk7i2obc8qViv14LwrJ8Zqh/79a9088e3d28bda33713ef2064ec6ddedb0bd081fb4292cbb44cbe212b06bef1.png)
 Day 4:
-Today I got a lot of work done and watched a lot of YouTube  videos for info. The PCB design I chose was a cat because they're cute and I like them. I found many errors like me drawing the border of the cat design with b.cu instead of edge cut.
+Today I got a lot of work done and watched a lot of YouTube  videos for info. The PCB design I chose was a cat because they're cute and I like them. I sourced the cat image from Pinterest and traced the border with it. I found many errors like me drawing the border of the cat design with b.cu instead of edge cut.
 
 ### 2026-10-11 – ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QqRpLfUPGbk7i2obc8qViv14LwrJ8Zqh/d81d8154632201eeff807c114ccc2d32d437579657b3192cc8d877ec4fc40986.png)
 
