@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 16h | 6 |
+| Week 1 | Tier 1 | 17h | 6 |
 
 ## Contents
 
@@ -76,7 +76,7 @@ Today I did some stuff on the repo with adding the kicad file to it and I also d
 
 ### 2026-10-11 – ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QqRpLfUPGbk7i2obc8qViv14LwrJ8Zqh/47ada1003997795a02b77246ee9f2c52661c0244a07b0d25fbb5ddb3aecf3663.png)
 
-**5h**
+**6h**
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QqRpLfUPGbk7i2obc8qViv14LwrJ8Zqh/47ada1003997795a02b77246ee9f2c52661c0244a07b0d25fbb5ddb3aecf3663.png)
 
@@ -88,5 +88,6 @@ Today I did some stuff on the repo with adding the kicad file to it and I also d
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QqRpLfUPGbk7i2obc8qViv14LwrJ8Zqh/a823117cc525d03072b070104272cbe6aa0504a0783fab32e738e66bcc617383.png)
 
+![Screenshot 2026-10-11 140512](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QqRpLfUPGbk7i2obc8qViv14LwrJ8Zqh/0944604dee0f8b1947eb13e81520ada3cb27bd57183df031908135f46801a0df.png)
 Final Day:
-Today I wrapped things up by completing the rest of my firmware, which I created a cat icon for the pet display. I also wrote my readme and added the materials for the bom. Most of the materials were sourced from Ali Express. At the end I added the gerber and drill files. This first week was fun and I'm excited for the next one.
+Today I wrapped things up by completing the rest of my firmware, which I created a cat icon for the pet display. I also wrote my readme and added the materials for the bom. Most of the materials were sourced from Ali Express, which took me a long time for no reason. At the end I added the gerber and drill files. This first week was fun and I'm excited for the next one.
