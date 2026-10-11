@@ -21,7 +21,7 @@
 | [10 kΩ resistor](https://www.aliexpress.us/item/2251832723050077.html?gatewayAdapt=glo2usa4itemAdapt) | Resistor | 1 | $1.92 | $1.92 | [Ali Express](https://www.aliexpress.us/item/2251832723050077.html?gatewayAdapt=glo2usa4itemAdapt) |
 | [Custom Two-Layer PCB](https://www.jlcpcb.com/) | PCB | 1 | $4.00 | $4.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$20.92** | — |
-| **Tax & shipping** | — | — | — | **$2.00** | — |
-| **Total** | — | — | — | **$22.92** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$20.92** | — |
 
-$7.08 left of the tier's funding.
+$9.08 left of the tier's funding.
