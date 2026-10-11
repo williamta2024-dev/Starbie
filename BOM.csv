@@ -1,0 +1,12 @@
+Part,Purpose,Qty,Unit Price (USD),Total (USD),Vendor Link
+XIAO ESP32-C3,Runs the pet firmware,1,4.99,4.99,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
+0.96-inch OLED Display,Displays the cat and menu,1,1.78,1.78,https://www.aliexpress.com/item/1005001621838435.html
+MPU6050 Motion Sensor,Detects tilting and shaking,1,1.58,1.58,https://www.aliexpress.com/item/32273559270.html
+DHT11,Measures temperature and humidity,1,1.01,1.01,https://www.aliexpress.com/item/1699337492.html
+MX Switches,Provide button controls,1 pack,2.25,2.25,https://www.aliexpress.us/item/3256801547800576.html
+Keycaps,Cover the switches,1 pack,3.13,3.13,https://www.aliexpress.us/item/3256812243964522.html
+10 kΩ Resistors,Pull the DHT11 data signal HIGH when idle,1 pack,2.03,2.03,https://www.aliexpress.us/item/2251832723050077.html
+Custom Two-Layer PCB,Holds and connects the components,1 order,10.00,10.00,https://www.jlcpcb.com/
+Subtotal,,,,26.77,
+Estimated Sales Tax,8.25%,,,2.21,
+Total Including Tax,,,,28.98,
