@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 13.9h | 6 |
+| Week 1 | Tier 1 | 14.5h | 6 |
 
 ## Contents
 
@@ -54,7 +54,7 @@ I didn't do much today since I had school work and it was due at 11:59 pm today.
 
 ### 2026-10-09 – ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QqRpLfUPGbk7i2obc8qViv14LwrJ8Zqh/4882f8334bec21c1d961798135eb0792be077514e2fe76ffb5da00d71f8bc96a.png)
 
-**2.4h**
+**3h**
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QqRpLfUPGbk7i2obc8qViv14LwrJ8Zqh/4882f8334bec21c1d961798135eb0792be077514e2fe76ffb5da00d71f8bc96a.png)
 
